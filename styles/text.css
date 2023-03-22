@@ -1,5 +1,5 @@
 
-<style>
+
 p {
     font-family:Roboto;
     margin-top: 0;
@@ -11,7 +11,7 @@ p {
   font-size: 18px;
   width: 280px;
   line-height: 24px;
-  margin-bottom: 5;
+  margin-bottom: 5px;
 
 }
 
@@ -68,4 +68,7 @@ p {
 .shop-link:hover {
   text-decoration: underline;
 }
-</style>
+
+/**
+koments
+*/ 
